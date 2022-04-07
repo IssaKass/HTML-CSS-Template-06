@@ -229,7 +229,7 @@ header .menu-toggle:hover span:nth-child(2) {
 /* End Header */
 /* Start Home */
 .home {
-    height: calc(100vh - 75px);
+    height: 100vh;
     background-image: url(../images/main_img.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
